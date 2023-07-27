@@ -14,7 +14,7 @@ async-timeout==4.0.2
     # via zeroconf
 bottle==0.12.23
     # via platformio
-certifi==2022.6.15
+certifi==2023.7.22
     # via requests
 charset-normalizer==2.1.1
     # via requests
