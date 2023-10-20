@@ -60,7 +60,7 @@ tabulate==0.8.10
     # via platformio
 typing-extensions==4.3.0
     # via starlette
-urllib3==1.26.11
+urllib3==1.26.18
     # via requests
 uvicorn==0.18.2
     # via platformio
