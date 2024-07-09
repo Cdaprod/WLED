@@ -68,3 +68,4 @@ wsproto==1.1.0
     # via platformio
 zeroconf==0.39.0
     # via platformio
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
