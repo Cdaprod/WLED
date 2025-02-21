@@ -42,7 +42,7 @@ packaging==21.3
     # via marshmallow
 platformio==6.1.4
     # via -r requirements.in
-pyelftools==0.29
+pyelftools==0.31
     # via platformio
 pyparsing==3.0.9
     # via packaging
